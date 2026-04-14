@@ -717,7 +717,7 @@ This project is licensed under the **ISC License**.
 
 ## 👥 Authors & Acknowledgments
 
-- **Sujay** - Initial work - [Sujay149](https://github.com/Sujay149)
+- **Sujay** - Initial work - [Prashnath9492](https://github.com/Prashanth9492)
 
 ### **Built With**
 - ❤️ React & TypeScript
@@ -729,7 +729,7 @@ This project is licensed under the **ISC License**.
 
 ## 📞 Support & Contact
 
-- **Issues**: [GitHub Issues](https://github.com/Sujay149/NueroDiverse/issues)
+- **Issues**: [GitHub Issues](https://github.com/Prashanth9492/Nuerohub/issues)
 - **Email**: Contact through GitHub profile
 - **Documentation**: See `/docs` folder (if available)
 
